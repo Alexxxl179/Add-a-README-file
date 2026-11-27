@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Alexxxl179/Add-a-README-file/issues"
   },
-  "homepage": "https://github.com/Alexxxl179/Add-a-README-file#readme"
+  "homepage": "https://github.com/Alexxxl179/Add-a-README-file#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
 }
